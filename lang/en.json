@@ -1,0 +1,28 @@
+{
+  "tokenActionHud.carl.tab.inventory": "Inventory",
+
+  "tokenActionHud.carl.group.attacks": "Attacks",
+  "tokenActionHud.carl.group.damageEffects": "Damage Effects",
+  "tokenActionHud.carl.group.defense": "Defense",
+  "tokenActionHud.carl.group.skills": "Skills",
+  "tokenActionHud.carl.group.passives": "Passives",
+  "tokenActionHud.carl.group.attackSpells": "Attack Spells",
+  "tokenActionHud.carl.group.spells": "Spells",
+  "tokenActionHud.carl.group.ongoingSpells": "Ongoing Spells",
+  "tokenActionHud.carl.group.equipped": "Equipped",
+  "tokenActionHud.carl.group.gear": "Gear",
+  "tokenActionHud.carl.group.features": "Boons",
+
+  "tokenActionHud.carl.actionType.attack": "Attack",
+  "tokenActionHud.carl.actionType.passive": "Passive",
+
+  "tokenActionHud.carl.info.rank": "Rank",
+  "tokenActionHud.carl.info.quantity": "Quantity",
+
+  "tokenActionHud.carl.setting.showPassiveSkills.name": "Show Passive Skills",
+  "tokenActionHud.carl.setting.showPassiveSkills.hint": "Show passive Skills and Spells in a Passives group. They can't be rolled, so clicking one opens its sheet.",
+  "tokenActionHud.carl.setting.showUntrained.name": "Show Untrained Spells & Damage Effects",
+  "tokenActionHud.carl.setting.showUntrained.hint": "Show Rank 0 Spells and Damage Effects. The system won't let you use them until they're trained.",
+  "tokenActionHud.carl.setting.showUnequippedGear.name": "Show Unequipped Gear",
+  "tokenActionHud.carl.setting.showUnequippedGear.hint": "Show gear that isn't equipped. Shift-click any gear button to equip or unequip it."
+}

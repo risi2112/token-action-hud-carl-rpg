@@ -1,0 +1,46 @@
+{
+  "id": "token-action-hud-carl-rpg",
+  "title": "Token Action HUD Dungeon Crawler Carl",
+  "description": "Token Action HUD system module for the unofficial Dungeon Crawler Carl RPG system (carl-rpg). Requires Token Action HUD Core.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Arriana Vasquez"
+    }
+  ],
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "carl-rpg",
+        "type": "system"
+      }
+    ],
+    "requires": [
+      {
+        "id": "token-action-hud-core",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.0.0"
+        }
+      }
+    ]
+  },
+  "socket": false,
+  "url": "https://github.com/risi2112/token-action-hud-carl-rpg",
+  "manifest": "https://github.com/risi2112/token-action-hud-carl-rpg/releases/latest/download/module.json",
+  "download": "https://github.com/risi2112/token-action-hud-carl-rpg/releases/latest/download/module.zip"
+}
